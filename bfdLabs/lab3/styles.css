@@ -1,7 +1,183 @@
+
+
+
+
+header{
+    background-color: rgb(135, 80, 156);
+    
+    padding: 1%;
+}
+
+.head1{
+    margin-left: 10%;
+    display: inline-block;
+
+}
+
+.head3{
+    display: flex;
+}
+
+.head2{
+    margin-left: 50%;
+    display: flex;
+    margin-right: 10%;
+    
+}
+
+.headbut{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 2%;
+    background-color: rgb(135, 80, 156);
+    border: 0;
+    color: aliceblue;
+    padding: 2% 4%;
+    border-radius: 5px;
+}
+
+.headbut:focus{
+    background: rgb(100, 58, 121);
+}
+
+
+body{
+margin: 0%;
+}
+
+#btn1{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin-top: 2%;
+    background-color: rgb(235, 125, 75);
+    padding: 1% 4%;
+    border-color: rgb(200, 106, 64);
+    border-top: 0;
+    border-left: 0;
+    border-right: 0 ;
+    border-radius: 1%;
+}
+
+#btn3{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin-top: 2%;
+    margin-left: 43%;
+    background-color: rgb(48, 186, 231);
+    padding: 1% 4%;
+    border-color: rgb(42, 153, 194);
+    border-top: 0;
+    border-left: 0;
+    border-right: 0 ;
+    border-radius: 1%;
+    margin-bottom: 5%
+}
+
+#btn1-text{
+    color: aliceblue;
+}
+
+.b-1{
+    background-color: rgb(135, 80, 156);
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+
+}
+hr{
+    width: 50px;
+    margin: 30px auto;
+    border: 2px solid rgb(39, 58, 113);
+}
+
+#b-1-text{
+    color: aliceblue;
+}
+
+.portfolio{
+    background-color: rgb(255, 221, 153);
+}
+
+#b-p-1{
+    text-align: center;
+}
+
+.GIT{
+    background-color: rgb(60, 84, 153) ;
+    padding-top: 3%;
+}
+
+.inpmod{
+    margin-left: 4%;
+}
+
+.inpmod1{
+    display: flex;
+    margin-top: 3%;
+}
+
+.inpmod2{
+    margin-top: 1%;
+}
+
+#in1{
+    width: 20%;
+    padding: 12px 20px;
+    margin-left: 25%;
+    border: 0;
+    background-color: rgb(39, 58, 113); 
+}
+
+#in2{
+    width: 20%;
+    padding: 12px 20px;
+    margin-left: 1%;
+    border: 0;
+    background-color: rgb(39, 58, 113); 
+}
+
+#in3{
+    width: 45.3%;
+    height: 200px;
+    margin-left: 25%;
+    border: 0;
+    background-color: rgb(39, 58, 113); 
+    overflow: auto;
+    text-align: left;
+
+}
+
+#git1{
+    text-align: center;
+    color: aliceblue;
+}
+
+#git2{
+    margin-left: 30%;
+    text-align: center;
+    color: aliceblue;
+}
+
+
+
+
+
+
+
+
+
+
+
 footer{
     background-color: blueviolet;
     margin: 0px;
 }
+
+
+
 
 #f{
     align-self: center;
